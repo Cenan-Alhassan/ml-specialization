@@ -1,0 +1,5 @@
+1- file 3 is a complete linear regression implementation using gradient descent 
+2- file 4 is a multiple feature linear regression model using gradient descent, completely self created (using numpy library and kaggle dataset)
+3- file 5 is similar to file 4, except there are 4 features instead of 2, the data has been normalised for efficiency using pandas library,
+ and actual vs predictions + cost vs iterations plotted with matplotlib
+4- file 6 is the same as file 5, except using Scikit learn for the regression model and z score normalisation
