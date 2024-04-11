@@ -4,5 +4,5 @@ SEE:
 
 - Course 1 > 5. Multiple linear regression with feature scaling and cost vs iteration monitoring
 
-A complete self-made linear regression model.
+A complete self-made linear regression model. Used to predict housing prices based on 4 attributes.
 Using pandas for data manipulation, numpy for linear algebra and matplotlib for plotting graphs.
