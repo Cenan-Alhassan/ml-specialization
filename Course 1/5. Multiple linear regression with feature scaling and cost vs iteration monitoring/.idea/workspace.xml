@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9a79376-1a94-4bf6-8970-b6ef7c724698" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../7. Simple classification model/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Multi-feature linear regression with scikit learn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/8. Univariate classification with gradient descent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8. Univariate classification with gradient descent/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/9.  Double feature classification with Scikit learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/lab_utils_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9.  Double feature classification with Scikit learn/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. Simple classification model/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../7. Simple classification model/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../progresss report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../progresss report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
