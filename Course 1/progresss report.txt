@@ -6,3 +6,4 @@
 5- file 7 is a univariate classification model with a cost vs coefficient plot
 6- file 8 is the same as 7, except w was found with gradient descent
 7- file 9 is a double feature implementation using scikit learn, data is plotted on a 2d graph using lab utilities
+8- file 10 is a plot of before and after of applying regularized gradient descent in linear and logistic regression with a polynomial feature

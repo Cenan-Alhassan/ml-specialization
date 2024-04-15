@@ -29,7 +29,7 @@ prediction = lr_model.predict(np.array([input1, input2]).reshape(1, -11))
 
 print(f"The model predicts the output to be: {'0' if prediction[0] == 0 else 'X'}", end="")
 
-ax.axis([0, 4, 0, 3.5])
+ax.axis([0, 6, 0, 6])
 ax.set_ylabel('$x_1$', fontsize=12)
 ax.set_xlabel('$x_0$', fontsize=12)
 x0 = np.arange(0, 3.5, 0.1)
@@ -38,5 +38,6 @@ x1 = -1.22862 * x0 + 3.16629
 ax.plot(x0, x1, lw=1, label="decision boundary")
 plt.legend()
 plt.show()
+
 
 
